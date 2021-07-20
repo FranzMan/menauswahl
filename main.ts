@@ -37,6 +37,6 @@ input.onButtonPressed(Button.B, function () {
 })
 let y = 0
 let x = 0
-x = 2
-y = 2
+x = 0
+y = 0
 led.plot(x, y)
